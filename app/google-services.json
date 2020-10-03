@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274151967916",
+    "firebase_url": "https://send-location-302ec.firebaseio.com",
+    "project_id": "send-location-302ec",
+    "storage_bucket": "send-location-302ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274151967916:android:5e5b130b5f38d30af1e309",
+        "android_client_info": {
+          "package_name": "pk.codebase.sendlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274151967916-7brh3busjb2pv88mtiv78fohpf3872ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKxwU07vLwkNHU4ZRI62BuHX-y3vpIK_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274151967916-7brh3busjb2pv88mtiv78fohpf3872ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
